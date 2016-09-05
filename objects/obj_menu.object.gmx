@@ -114,11 +114,11 @@ for (m = 0; m &lt; array_length_1d(menu); m += 1){
 
 draw_sprite(spr_ship_player, 0, x+16, y + mpos * space);
 
-draw_set_halign(fa_middle);
+draw_set_halign(fa_left);
 draw_set_valign(fa_center);
 draw_set_font(fnt_cnc_small);
-draw_text(x + space, y + (m * space + 100), string("Keys = WASD + Mouse 1"));
-draw_text(room_height/2, room_width/2 + 200, string("Created by Luis Sastre Verzun"));
+draw_text(room_height/2 - 100, room_width/2 + 100, string("Keys = WASD + Mouse 1"));
+draw_text(room_height/2 - 100, room_width/2 + 200, string("Created by Luis Sastre Verzun"));
 </string>
           </argument>
         </arguments>
