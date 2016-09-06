@@ -1,6 +1,5 @@
 ## Dabtroids.gmx
 
-![Screenshot_menu](http://i.imgur.com/mvGsEO3.png)
 ![Screenshot_game](http://i.imgur.com/V7NCe7M.png)
 
 ## Synopsis
