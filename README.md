@@ -6,11 +6,11 @@
 
 An asteroids clone I made in Game Maker Studio over the course of a few hours in order to see if this is something I wanted to do more of.
 
-There's anexecutable in the repo which you dcan run on windows, or feel free to clone the repo and import into Game Maker.
+A Windows Executuable is available in the repo for those wishing to run it.
 
 ## Requirements
 
-Windows 7+
+Game Maker Studio
 
 ## Supported Platforms
 
